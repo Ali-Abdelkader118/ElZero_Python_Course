@@ -1,1 +1,0 @@
-from pillow import image
