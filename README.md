@@ -37,7 +37,7 @@ Solved Course Assignments => [ 20 ] <br />
 - Modules & Packages => [Assignments From 076 To 078](https://elzero.org/python-assignments-lesson-from-76-to-78/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-076%20-%20078%20-%2017.py)
 - Date & Time => [Assignments From 079 To 080](https://elzero.org/python-assignments-lesson-from-79-to-80/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-079%20-%20080%20-%2018.py)
 - Generators & Decorators => [Assignments From 081 To 085](https://elzero.org/python-assignments-lesson-from-81-to-85/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-081%20-%20085%20-%2019.py)
-- Collection Of Module => [Assignment From 085 To 089](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution]()
+- Collection Of Module => [Assignment From 086 To 089](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-086%20-%20089%20-%2020.py)
 ---
 
 #### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
