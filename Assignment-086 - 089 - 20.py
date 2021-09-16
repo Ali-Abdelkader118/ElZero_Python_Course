@@ -1,9 +1,6 @@
-from typing import final
-from PIL import Image
 
-"""
-This Is My Solved Assignment For ElZero.com
-"""
+"""This Is My Solved Assignment For ElZero 20th Assignment"""
+from PIL import Image
 
 #First
 
@@ -17,20 +14,36 @@ for data in zip(my_list, my_tuple):
 
 
 
-def listToString(s): 
+def list_to_string(s_l):
+    """This function turn list to a string"""
+    str1 = ""
 
-    str1 = "" 
-    
-    return (str1.join(s))
+    return str1.join(s_l)
 
-final_string = listToString(my_data).capitalize()
+FINAL_STRING = list_to_string(my_data).capitalize()
 
-print(final_string)
+print(FINAL_STRING)
 
 print("=" * 40)
 
 #Second
+my_list1 = ["E", "L", "Z", "E", "R", "O", 1, 2]
+my_tuple2 = ("E", "Z", "R", 1, 2, "E", "R", "O")
+my_list2 = ("L", "E", "O", 1, 2, "E", "R", "O")
+my_data2 = []
 
+for item1, item2, item3 in zip(my_list1, my_tuple2, my_list2):
+    if isinstance(item2 , int) is True :
+        break
+    if isinstance(item3 , int) is True :
+        break
+    my_data2.append(item2)
+    my_data2.append(item3)
+
+FINALL_STRING= list_to_string(my_data2).capitalize()
+
+
+print(FINALL_STRING)
 
 
 print("=" * 40)
@@ -43,7 +56,7 @@ new_l = image.crop(l_box)
 
 converted_l = new_l.convert("L")
 
-onverted_l.show()
+# converted_l.show()
 converted_l.save("converted_l.png")
 
 
@@ -53,20 +66,20 @@ new_box = image.crop(coulmn_box)
 converted = new_box.convert("L")
 rotated= converted.rotate(180)
 
-rotated.show()
+# rotated.show()
 rotated.save("Rotated-image.png")
 
 
 # #Fourth
-def Say_Hello(name) :
+def say_hello2(name) :
     '''
     "parameter(someone) => Person Name"
     "Function To Say Hello To Anyone"
     '''
     print(f"Hello {name}")
 
-Say_Hello("Ali")
-print(Say_Hello.__doc__)
+say_hello2("Ali")
+print(say_hello2.__doc__)
 
 print("=" * 40)
 
