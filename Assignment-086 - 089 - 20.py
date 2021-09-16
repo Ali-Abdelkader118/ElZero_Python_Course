@@ -41,7 +41,7 @@ for item1, item2, item3 in zip(my_list1, my_tuple, my_list2):
     elif type(item3) == int :
         break
     else :
-        finall_string =item2,item3
+        finall_string = (item2,item3)
 
 
 print(final_string)
