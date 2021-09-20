@@ -2,10 +2,10 @@
 
 # Python Course Assignments Solution
 
-Watched Course Videos => [ 85 From 149 ] <br />
-![57%](https://progress-bar.dev/57/)
+Watched Course Videos => [ 94 From 149 ] <br />
+![64%](https://progress-bar.dev/64/)
 
-Solved Course Assignments => [ 20 ] <br />
+Solved Course Assignments => [ 21 ] <br />
 ![100%](https://progress-bar.dev/100/)
 
 - [Course Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
@@ -38,6 +38,7 @@ Solved Course Assignments => [ 20 ] <br />
 - Date & Time => [Assignments From 079 To 080](https://elzero.org/python-assignments-lesson-from-79-to-80/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-079%20-%20080%20-%2018.py)
 - Generators & Decorators => [Assignments From 081 To 085](https://elzero.org/python-assignments-lesson-from-81-to-85/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-081%20-%20085%20-%2019.py)
 - Collection Of Module => [Assignment From 086 To 089](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-086%20-%20089%20-%2020.py)
+- Error Handling & Debugging => [Assignment From 090 To 094](https://elzero.org/python-assignments-lesson-from-90-to-94/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-090%20-%20094%20-%2021.py)
 ---
 
 #### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
