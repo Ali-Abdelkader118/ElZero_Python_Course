@@ -39,7 +39,7 @@ Solved Course Assignments => [ 22 ] <br />
 - Generators & Decorators => [Assignments From 081 To 085](https://elzero.org/python-assignments-lesson-from-81-to-85/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-081%20-%20085%20-%2019.py)
 - Collection Of Module => [Assignment From 086 To 089](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-086%20-%20089%20-%2020.py)
 - Error Handling & Debugging => [Assignment From 090 To 094](https://elzero.org/python-assignments-lesson-from-90-to-94/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-090%20-%20094%20-%2021.py)
----
+- Regular Expressions => [Assignment From 095 To 102](https://elzero.org/python-assignments-lesson-from-95-to-102/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-095%20-%20102%20-%205.py)
 
 #### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
 #### I will Update It Regulary
