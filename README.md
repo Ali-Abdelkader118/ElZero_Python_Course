@@ -3,7 +3,7 @@
 # Python Course Assignments Solution
 
 Watched Course Videos => [ 102 From 149 ] <br />
-![64%](https://progress-bar.dev/64/)
+![68%](https://progress-bar.dev/68/)
 
 Solved Course Assignments => [ 22 ] <br />
 ![100%](https://progress-bar.dev/100/)
