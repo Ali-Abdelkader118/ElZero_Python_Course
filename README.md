@@ -2,10 +2,10 @@
 
 # Python Course Assignments Solution
 
-Watched Course Videos => [ 102 From 149 ] <br />
+Watched Course Videos => [ 102 From 152 ] <br />
 ![68%](https://progress-bar.dev/68/)
 
-Solved Course Assignments => [ 22 ] <br />
+Solved Course Assignments => [ 23 ] <br />
 ![100%](https://progress-bar.dev/100/)
 
 - [Course Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
