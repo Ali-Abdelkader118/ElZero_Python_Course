@@ -40,6 +40,7 @@ Solved Course Assignments => [ 23 ] <br />
 - Collection Of Module => [Assignment From 086 To 089](https://elzero.org/python-assignments-lesson-from-86-to-89/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-086%20-%20089%20-%2020.py)
 - Error Handling & Debugging => [Assignment From 090 To 094](https://elzero.org/python-assignments-lesson-from-90-to-94/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-090%20-%20094%20-%2021.py)
 - Regular Expressions => [Assignment From 095 To 102](https://elzero.org/python-assignments-lesson-from-95-to-102/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-095%20-%20102%20-%205.py)
+- Object Oriented Programming => [Assignment From 103 To 116](https://elzero.org/python-assignments-lesson-from-103-to-116/) => [Solution]()
 
 #### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
 #### I will Update It Regulary
