@@ -2,11 +2,11 @@
 
 # Python Course Assignments Solution
 
-Watched Course Videos => [ 102 From 152 ] <br />
-![68%](https://progress-bar.dev/68/)
+Watched Course Videos => [ 116 From 152 ] <br />
+![77%](https://progress-bar.dev/77/)
 
 Solved Course Assignments => [ 23 ] <br />
-![100%](https://progress-bar.dev/100/)
+![95%](https://progress-bar.dev/95/)
 
 - [Course Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 
@@ -41,6 +41,7 @@ Solved Course Assignments => [ 23 ] <br />
 - Error Handling & Debugging => [Assignment From 090 To 094](https://elzero.org/python-assignments-lesson-from-90-to-94/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-090%20-%20094%20-%2021.py)
 - Regular Expressions => [Assignment From 095 To 102](https://elzero.org/python-assignments-lesson-from-95-to-102/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-095%20-%20102%20-%205.py)
 - Object Oriented Programming => [Assignment From 103 To 116](https://elzero.org/python-assignments-lesson-from-103-to-116/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-103%20-%20116%20-%2023.py)
+- SQLight Database => [Assignment From 117 To 127](https://elzero.org/python-assignments-lesson-from-117-to-127/) => [Solution](https://github.com/Ali-Abdelkader118/ElZero_Python_Course/blob/main/Assignment-117%20-%20127%20-%2024.py)
 
 #### Special Thanks To [Osama Elzero](https://www.youtube.com/user/OsamaElzero)
 #### I will Update It Regulary
