@@ -48,41 +48,27 @@ print(Message.print_message())
 
 #Fourth
 class Games:
-    def __init__(self, *games):
+    def __init__(self, games):
             self.games=games
-            game = list(self.games)
-            print(type(game))
-            print(len(game))
-            self.game = game
-
     def show_games(self) :
-        if len(self.game) > 1 :
+        if type(self.games) == int :
+            print(f"I Have {self.games} Game")
+        elif type(self.games) == list :
             print("I Have Many Games:")
-            for i in self.game :
+            for i in self.games :
                 print(f"-- {i}")
-        elif type(self.game) == int :
-            print(f"I Have {self.game} Game")
         else:
-            print(f"I Have One Game Called {self.game}")
+            print(f"I Have One Game Called {self.games}")
 
 my_game = Games("Shadow Of Mordor")
 my_games_names = Games(["Ys II", "Ys Oath In Felghana", "YS Origin"])
 my_games_count = Games(80)
 
 my_game.show_games()
-# Ouput
-# I Have One Game Called "Shadow Of Mordor"
 
 my_games_names.show_games()
-# Ouput
-# I Have Many Games:
-# -- Ys II
-# -- Ys Oath In Felghana
-# -- YS Origin
 
 my_games_count.show_games()
-# Output
-# I Have 80 Game.
 
 
 #Fifth
@@ -161,4 +147,3 @@ class Text(A ,B ,C) :
 the_name = Text("El", "ze", "ro")
 
 print(the_name.show_name())
-
