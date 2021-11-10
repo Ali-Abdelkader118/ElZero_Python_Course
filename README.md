@@ -2,11 +2,11 @@
 
 # Python Course Assignments Solution
 
-Watched Course Videos => [ 116 From 152 ] <br />
-![77%](https://progress-bar.dev/77/)
+Watched Course Videos => [ 127 From 152 ] <br />
+![84%](https://progress-bar.dev/84/)
 
-Solved Course Assignments => [ 23 ] <br />
-![95%](https://progress-bar.dev/95/)
+Solved Course Assignments => [ 24 ] <br />
+![100%](https://progress-bar.dev/100/)
 
 - [Course Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 
