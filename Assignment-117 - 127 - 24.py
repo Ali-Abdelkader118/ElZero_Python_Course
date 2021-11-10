@@ -13,15 +13,15 @@ import sqlite3
 
 db = sqlite3.connect("elzero.db")
 cr = db.cursor()
-cr.execute("CREATE TABLE if not exists Users(ID Integer UNIQUE, Name Text UNIQUE, Age Text UNIQUE, Email Text UNIQUE)")
+cr.execute("CREATE TABLE Users(ID Integer UNIQUE, Name Text UNIQUE, Age Text UNIQUE, Email Text UNIQUE)")
 
 
 #Third
-cr.execute("INSERT OR IGNORE INTO Users(ID , Name , Age , Email) values(1 ,'Ahmed','20/10/1980','a@elzero.org')")
-cr.execute("INSERT OR IGNORE INTO Users(ID , Name , Age , Email) values(2 ,'Sayed','20/10/1990','s@elzero.org')")
-cr.execute("INSERT OR IGNORE INTO Users(ID , Name , Age , Email) values(3 ,'Gamal','05/10/1991','g@elzero.org')")
-cr.execute("INSERT OR IGNORE INTO Users(ID , Name , Age , Email) values(4 ,'Mahmoud','09/10/1987','m@elzero.org')")
-cr.execute("INSERT OR IGNORE INTO Users(ID , Name , Age , Email) values(5 ,'Sameh','08/11/2000','h@elzero.org')")
+cr.execute("INSERT INTO Users(ID , Name , Age , Email) values(1 ,'Ahmed','20/10/1980','a@elzero.org')")
+cr.execute("INSERT INTO Users(ID , Name , Age , Email) values(2 ,'Sayed','20/10/1990','s@elzero.org')")
+cr.execute("INSERT INTO Users(ID , Name , Age , Email) values(3 ,'Gamal','05/10/1991','g@elzero.org')")
+cr.execute("INSERT INTO Users(ID , Name , Age , Email) values(4 ,'Mahmoud','09/10/1987','m@elzero.org')")
+cr.execute("INSERT INTO Users(ID , Name , Age , Email) values(5 ,'Sameh','08/11/2000','h@elzero.org')")
 
 
 
