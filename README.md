@@ -6,7 +6,7 @@ Watched Course Videos => [ 127 From 152 ] <br />
 ![84%](https://progress-bar.dev/84/)
 
 Solved Course Assignments => [ 24 ] <br />
-![100%](https://progress-bar.dev/100/)
+![95%](https://progress-bar.dev/95/)
 
 - [Course Playlist](https://www.youtube.com/playlist?list=PLDoPjvoNmBAyE_gei5d18qkfIe-Z8mocs)
 
