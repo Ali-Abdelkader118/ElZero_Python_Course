@@ -1,14 +1,8 @@
-# Test 1 => 10 Is Found In This List [5, 7, 8, 10]
-# Test 2 => The Type Of 10 Is Int
-# Test 3 => Number 100 Return True
-# Test 4 => Empty List [] Return False
-# Test 5 => 100 Is Larger Than Or Equal 90
-
 import unittest
 import string
 import random
 
-# Assignment-1
+# First
 
 
 class MyTestCases(unittest.TestCase):
@@ -34,7 +28,7 @@ class MyTestCases(unittest.TestCase):
         print("Test 5 => 100 Is Larger Than Or Equal 90")
 
 
-# Assignment-2
+# Second
 
 
 def make_serial():
