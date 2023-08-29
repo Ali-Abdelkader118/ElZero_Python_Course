@@ -38,9 +38,8 @@ print(user_two.full_details())
 
 #Third
 class Message:
-
-    def print_message() :
-        return "Hello From Class Message"
+    def print_message():
+        return f"Hello from {__class__.__name__} Message" #It was done manually in your version.
 
 
 print(Message.print_message())
